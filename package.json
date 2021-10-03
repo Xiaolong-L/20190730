@@ -1,0 +1,26 @@
+{
+  "name": "20190730",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "lxlless": "lessc css/index.less css/index.min.css -x" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Xiaolong-L/20190730.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Xiaolong-L/20190730/issues"
+  },
+  "homepage": "https://github.com/Xiaolong-L/20190730#readme",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.6.0",
+    "less": "^4.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
